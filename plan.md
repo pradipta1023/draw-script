@@ -17,3 +17,4 @@
 
 - [x] Take code from the textarea after clicking on the run button
 - [x] Parse the code
+- [ ] Create a canvas class with basic methods
